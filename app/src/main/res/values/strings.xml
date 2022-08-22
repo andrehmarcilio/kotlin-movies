@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Movies</string>
+    <string name="imagem_filme_destque">Imagem filme destque</string>
+    <string name="imagem_do_filme">Imagem do filme</string>
+</resources>
