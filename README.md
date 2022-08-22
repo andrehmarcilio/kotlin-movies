@@ -17,3 +17,9 @@ Aplicativo que mostra um catálogo de filmes. Feito em Kotlin e integrado com a 
 - injeção de dependências (Koin)
 - Padrão Repository
 - Retrofit
+
+OBS: Lembre de trocar o valor da variável key para a sua chave da API "The movie DB" (Versão 3) 
+Local da variável: app/src/main/java/br/com/marchiro/netflixcloneandroid/di/WebClientModule.kt
+
+
+https://developers.themoviedb.org/3/getting-started/introduction 
